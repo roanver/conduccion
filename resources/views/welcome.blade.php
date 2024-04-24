@@ -54,7 +54,7 @@
           </div>
           <br>
           <br>
-          <p> Total: $ {{$total * 100}} </p>
+          <p> Total: $ {{$total * 100}}. </p>
         </div>
       </div>
 
