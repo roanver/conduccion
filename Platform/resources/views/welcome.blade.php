@@ -54,7 +54,7 @@
           </div>
           <br>
           <br>
-          <p> Total: $ {{ $total ?? '' }}. </p>
+          <p> Total: $ {{ $total ?? '' }}.. </p>
         </div>
       </div>
 
