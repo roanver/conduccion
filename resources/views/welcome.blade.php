@@ -64,7 +64,7 @@
 
       <!-- Tabla de direcciones -->
 
-      @include('layout.licitaciones',['envios'=> $envios])
+      @include('layout.table',['envios'=> $envios])
 
       
 </body>
